@@ -1,0 +1,27 @@
+{
+  "labels": [
+  {"placeholder_nombre": "Name"
+  ,"placeholder_booking": "Booking"
+  ,"placeholder_captcha": "Captcha"
+  ,"label_descripcioncaptcha": "Enter the code shown on the image."
+  ,"label_submit": "Send"
+  ,"label_dataerror": "Something went wrong please verify that you submitted the correct information."
+  ,"label_captchaerror": "Captcha error, please try again."
+  ,"label_title_pickup": "Pick up information"
+  ,"label_fechasalida": "Departure date"
+  ,"label_hotel": "Hotel"
+  ,"label_horasalida": "Pick up time"
+  ,"label_vuelodestino": "Departure - Flight"
+  ,"label_emptyhorasalida": "We are working in your transfer back to the airport, please contact us 24 hours prior your departure date to check your final pick up time."
+  ,"label_tba": "We are missing your flight information, please contact us immediately at (998) 881 90 30. From 6:30 am to 10:00 pm to update your flight schedule."
+  ,"label_nombre": "Name"
+  ,"label_tiposervicio": "Service type"
+  ,"label_tiposerviciollegada": "Arrival service type"
+  ,"label_tiposerviciosalida": "Departure service type"
+  ,"label_cantidadadultos": "Adults"
+  ,"label_cantidadninios": "Children"
+  ,"label_sugerencias": "IMPORTANT: If any of this information is not according to your flight itinerary, please contact us immediately at (998) 881 90 30. Daily from 6:30 am to 10:00 pm."
+  ,"label_recomendacion": "The meeting point to contact our Driver is at the Bell Boys area in the main Lobby.  Please be ready all checked out with your luggage  10 minutes prior your pick up time."
+  }
+]
+}
